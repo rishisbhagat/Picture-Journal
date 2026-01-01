@@ -1,4 +1,4 @@
-# Picture-Journal
+# Picture Journal
 Your life, captured with intention. Add up to 4 photos a day, writing a memory about the photo, decorate each page with stickers, and select your mood for the day and the feeling behind each photo. Build a beautiful daily journal of moments worth remembering.
 
 # Photo Journal Key Features 📔
@@ -37,6 +37,6 @@ Your life, captured with intention. Add up to 4 photos a day, writing a memory a
 - Settings persist across sessions
 - Page flip animation when changing days
 
-**Infomation:**
+# Disclaimer
 - Codebase was generated with ChatGPT & Claude
 - The HTML file is compatible with all modern web browsers 
