@@ -37,8 +37,6 @@ Your life, captured with intention. Add up to 4 photos a day, writing a memory a
 - Settings persist across sessions
 - Page flip animation when changing days
 
-# Information 
-• This project’s codebase was generated with ChatGPT & Claude
-• The HTML file is compatible with all modern web browsers
-• Sublimed text as the text editor 
-
+**Infomation:**
+- Codebase was generated with ChatGPT & Claude
+- The HTML file is compatible with all modern web browsers 
